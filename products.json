@@ -1,0 +1,69 @@
+{
+    "Promociones": [
+    {
+        "title": "Muzzarella",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 10500,
+        "image": "img/muzzarella.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Napolitana",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 12500,
+        "image": "img/Napolitana.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Roquefort",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 15500,
+        "image": "img/Roquefort.jpg",
+        "buttonText": "Comprar ahora!"
+    }
+    ],
+    "NuestraCarta": [
+    {
+        "title": "Anchoas",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 13500,
+        "image": "img/Anchoas2.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Napolitana",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 12500,
+        "image": "img/Jamon-y-anana2.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Calabresa y Jamon",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 17500,
+        "image": "img/Calabresa-y-jamon2.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Panceta",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 14500,
+        "image": "img/Muzzarella-y-panceta2.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Fugazzeta y Jamon",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 13500,
+        "image": "img/Fugazzeta-y-jamon2.jpg",
+        "buttonText": "Comprar ahora!"
+    },
+    {
+        "title": "Capresse",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, sapiente!",
+        "price": 11500,
+        "image": "img/Capresse2.jpg",
+        "buttonText": "Comprar ahora!"
+    }
+    ]
+}
